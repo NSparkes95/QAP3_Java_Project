@@ -11,5 +11,9 @@ public class Demo {
         // creating Teacher object
         Teacher paul = new Teacher("Paul James", 34, "M", "Computer Science", 50000);
         System.out.println(paul);
+
+        // creating CollegeStudent object
+        CollegeStudent sean = new CollegeStudent("Sean", 18, "M", "UCB123", 4.0, 1, "English");
+        System.out.println(sean);
     }
 }
