@@ -21,4 +21,33 @@ public class Student extends Person{
         this.myIdNum = idNum;
         this.myGPA = gpa;
     }
+
+    /** @return The student's ID number */
+    public String getIdNum() {
+        return myIdNum;
+    }
+
+    /** @param idNum Sets the student's ID number */
+    public void setIdNum(String idNum) {
+        this.myIdNum = idNum;
+    }
+
+    /** @return The student's GPA */
+    public double getGPA() {
+        return myGPA;
+    }
+
+    /** @param gpa Sets the student's GPA */
+    public void setGPA(double gpa) {
+        this.myGPA = gpa;
+    }
+
+    /**
+     * Returns a string representation of the Student object.
+     * @return A formatted string with student details.
+     */
+    @Override
+    public String toString() {
+        return super.toString() + ", Student ID: " + myIdNum + ", GPA: " + myGPA;
+    }
 }
