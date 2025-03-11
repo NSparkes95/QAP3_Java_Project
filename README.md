@@ -49,17 +49,16 @@ Attach a screenshot of your output here.
 📝 Student Feedback
 
 1️⃣ How many hours did it take you to complete this assessment?
+I spent roughly, 2.5 hours on the project.
 
-(Your answer here)
 2️⃣ What online resources did you use? (My lectures, YouTube, Stack Overflow, etc.)
+I have referred to past lectures.
 
-(Your answer here)
 3️⃣ Did you need to ask any of your friends for help? If yes, mention their names.
+No.
 
-(Your answer here)
 4️⃣ Did you ask your instructor any questions? If so, how many?
+No.
 
-(Your answer here)
 5️⃣ Rate (subjectively) the difficulty of each problem and explain if you feel confident solving similar problems in the future.
-
-(Your answer here)
+I found the project to be fairly easy.
